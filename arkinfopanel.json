@@ -1,0 +1,69 @@
+{
+	"WBUI2":
+	{
+		"settings":
+		{
+			"openbutton": 0,
+			"hideicon": false,
+			"hideiconafter": 60,
+			"iconurl": "https://iili.io/3jthacl.png",
+			"disableicontext": true,
+			"iconposition": 0,
+			"icontextcolor": 6,
+			"openonstart": true,
+			"openonstartonlynewplayers": true,
+			"updateinterval": 12
+		},
+		"tabs": [
+			{
+				"layout": 4,
+				"buttontext": "<RichColor Color=\"1,0.5,0,1\">Welcome</>",
+				"imageurl": "https://iili.io/3jbj2ON.png",
+				"content": [
+					{
+						"title": "<RichColor Color=\"1,0.5,0,1\">Welcome to Arktic</>",
+						"text": "<RichColor Color=\"1,1,1,1\">We aim to stay true to the game with just slightly boosted rates, no excessive or game breaking mods, and no player or dino level alterations. We still want to feel the grind and work for the PVE progression.</>\r\n\r\n\r\n<RichColor Color=\"1,1,1,1\">We hope you enjoy your stay here!</> <RichColor Color=\"1,0,0,0.8\"><3</>"
+					},
+					{
+						"title": "<RichColor Color=\"1,0.2,0,1\">Server Rates:</>",
+						"text": "<RichColor Color=\"1,1,1,1\">Max Wild Dino Lvl: 150 / 180Tek</>\r\n<RichColor Color=\"1,1,1,1\">x1 Night/Day Speed</>\r\n<RichColor Color=\"1,1,1,1\">x3 XP</>\r\n<RichColor Color=\"1,1,1,1\">x3 Taming/Harvesting/Gathering (x4 on Events)</>\r\n<RichColor Color=\"1,1,1,1\">x5 Breeding/Mating</>\r\n<RichColor Color=\"1,1,1,1\">x5 Larger item stacks</>\r\n<RichColor Color=\"1,1,1,1\">Stacked prime meat/mutton/honey</>"
+					},
+					{
+						"title": "<RichColor Color=\"1,0,0,1\">Server Rules:</>",
+						"text": "<RichColor Color=\"1,0,0,1\">o</> <RichColor Color=\"1,1,1,1\">Treat everyone with respect. We are all people trying to have fun.</>\r\n\r\n<RichColor Color=\"1,0,0,1\">o</> <RichColor Color=\"1,1,1,1\">Behave in game - no griefing, spam, blocking of resources/obelisks or bases and no  inappropriate character names or names like human/123 etc.</>\r\n\r\n<RichColor Color=\"1,0,0,1\">o</> <RichColor Color=\"1,1,1,1\">Traps must be unlocked for public use or picked up.</>"
+					},
+					{
+						"title": "",
+						"text": ""
+					}
+				]
+			},
+			{
+				"layout": 2,
+				"buttontext": "<RichColor Color=\"0.6,0.1,0,1\">Donate</>",
+				"imageurl": "https://iili.io/3jbj2ON.png",
+				"content": [
+					{
+						"title": "",
+						"text": "Please consider supporting us as we aim to give the best possible gaming experience. \r\nMore donations = more maps added!\r\n\r\nAll donations go towards the server rents and future maps added to the cluster.\r\n\r\nThank you for being a part of and improving our growing community!"
+					},
+					{
+						"title": "",
+						"text": "Donate via nitrado to username: weathered-frog-7382\r\n\r\nMake sure to change the currency to SEK, otherwise it won't work.\r\n-------------------------------------------------------------------\r\n\r\nYou can also contribute by adding your own rented server. Contact Pizza if you are interested in adding your own server to the cluster. "
+					}
+				]
+			}
+		],
+		"links": [
+			{
+				"text": "Join <RichColor Color=\"0,0,0,1\">discord</>!",
+				"url": "https://discord.gg/FNeafgVexg"
+			},
+			{
+				"text": "How to donate?",
+				"url": "https://server.nitrado.net/en-US/guides/how-to-properly-use-donations-en"
+			}
+		],
+		"version": 2
+	}
+}
