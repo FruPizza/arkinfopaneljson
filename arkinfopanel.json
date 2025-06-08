@@ -4,8 +4,8 @@
 		"settings":
 		{
 			"openbutton": 0,
-			"hideicon": false,
-			"hideiconafter": 60,
+			"hideicon": true,
+			"hideiconafter": 120,
 			"iconurl": "https://iili.io/3jthacl.png",
 			"disableicontext": true,
 			"iconposition": 0,
