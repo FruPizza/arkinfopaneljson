@@ -8,7 +8,7 @@
 			"hideiconafter": 60,
 			"iconurl": "https://iili.io/3jthacl.png",
 			"disableicontext": true,
-			"iconposition": 1,
+			"iconposition": 0,
 			"icontextcolor": 6,
 			"openonstart": true,
 			"openonstartonlynewplayers": true,
