@@ -40,16 +40,16 @@
 			},
 			{
 				"layout": 2,
-				"buttontext": "<RichColor Color=\"0.6,0.1,0,1\">Donate</>",
+				"buttontext": "<RichColor Color=\"0.6,0.1,0,1\">Donation info</>",
 				"imageurl": "https://iili.io/3jbj2ON.png",
 				"content": [
 					{
 						"title": "",
-						"text": "Please consider supporting us as we aim to give the best possible gaming experience.\r\n\r\nWe no longer take donations to Nitrado since we are moving away from their services and will start self hosting. \r\n(no saves will be lost, don't worry).\r\n\r\n\r\nAll donations go towards the server maintenance and future server upgrades. "
+						"text": "Consider supporting us as we aim to give the best possible gaming experience.\r\n\r\n\r\nWhat are donations used for? \r\nServer hardware upgrades such as:\r\n   o  RAM - Around 15GB per server. (upgraded to 128GB RAM out of pocket)\r\n   o  Better Cooling (CPU Fan/Chassi Fans)\r\n   o  Future upgrades/repairs\r\nPossible network upgrades\r\nServer Maintenance\r\n   o  Network cost\r\n   o  Electricity cost\r\n+ Labor\r\n\r\n\r\nBe Aware!\r\nWe no longer take donations to Nitrado since we are moving away from their services and will start self hosting. \r\n(no saves will be lost, don't worry)."
 					},
 					{
 						"title": "",
-						"text": "Use the 'donation button' below and follow the instructions.\r\n\r\n\r\n\r\n\r\n\r\nThank you for being a part of Arktic! \r\n\r\nSincerely, \r\nArctik Management"
+						"text": "Press <RichColor Color=\"1,0,0,1\">Donate</> below and follow the instructions.\r\n\r\n\r\n\r\n\r\n\r\nThank you for being a part of Arktic! \r\n\r\nSincerely, \r\nPizza"
 					}
 				]
 			}
@@ -60,7 +60,7 @@
 				"url": "https://discord.gg/FNeafgVexg"
 			},
 			{
-				"text": "Donation button",
+				"text": "<RichColor Color=\"1,0,0,1\">Donate</>",
 				"url": "https://www.paypal.com/donate/?hosted_button_id=N94F73MC6C7X6"
 			}
 		],
