@@ -26,7 +26,7 @@
 					},
 					{
 						"title": "<RichColor Color=\"1,0.2,0,1\">Server Rates:</>",
-						"text": "<RichColor Color=\"1,1,1,1\">Max Wild Dino Lvl: 150 / 180Tek</>\r\n<RichColor Color=\"1,1,1,1\">x1 Night/Day Speed</>\r\n<RichColor Color=\"1,1,1,1\">x3 XP</>\r\n<RichColor Color=\"1,1,1,1\">x3 Taming/Harvesting/Gathering (x4 on Events)</>\r\n<RichColor Color=\"1,1,1,1\">x5 Breeding/Mating</>\r\n<RichColor Color=\"1,1,1,1\">x5 Larger item stacks</>\r\n<RichColor Color=\"1,1,1,1\">Stacked prime meat/mutton/honey</>"
+						"text": "<RichColor Color=\"1,1,1,1\">Max Wild Dino Lvl: 150 / 180Tek</>\r\n<RichColor Color=\"1,1,1,1\">x1 Night/Day Speed</>\r\n<RichColor Color=\"1,1,1,1\">x3 XP</>\r\n<RichColor Color=\"1,1,1,1\">x3 Taming/Harvesting/Gathering (x4 on Events)</>\r\n<RichColor Color=\"1,1,1,1\">x5 Breeding/Mating (x6 on event)</>\r\n<RichColor Color=\"1,1,1,1\">x5 Larger item stacks</>\r\n<RichColor Color=\"1,1,1,1\">Stacked prime meat/mutton/honey</>"
 					},
 					{
 						"title": "<RichColor Color=\"1,0,0,1\">Server Rules:</>",
