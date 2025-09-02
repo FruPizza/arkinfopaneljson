@@ -26,7 +26,7 @@
 					},
 					{
 						"title": "<RichColor Color=\"1,0.2,0,1\">Server Rates:</>",
-						"text": "<RichColor Color=\"1,1,1,1\">Max Wild Dino Lvl: 150 / 180Tek</>\r\n<RichColor Color=\"1,1,1,1\">x1 Night/Day Speed</>\r\n<RichColor Color=\"1,1,1,1\">x3 XP</>\r\n<RichColor Color=\"1,1,1,1\">x3 Taming/Harvesting/Gathering (x4 on Events)</>\r\n<RichColor Color=\"1,1,1,1\">x5 Breeding/Mating (x6 on event)</>\r\n<RichColor Color=\"1,1,1,1\">x5 Larger item stacks</>\r\n<RichColor Color=\"1,1,1,1\">Stacked prime meat/mutton/honey</>"
+						"text": "<RichColor Color=\"1,1,1,1\">Max Wild Dino Lvl: 150 / 180Tek</>\r\n<RichColor Color=\"1,1,1,1\">x3 XP (x4 on events)</>\r\n<RichColor Color=\"1,1,1,1\">x3 Taming/Harvesting/Gathering (x4 on Events)</>\r\n<RichColor Color=\"1,1,1,1\">x5 Breeding/Mating (x6 on event)</>\r\n<RichColor Color=\"1,1,1,1\">x5 Larger item stacks</>\r\n<RichColor Color=\"1,1,1,1\">Stacked prime fish meat/prime meat/mutton/honey</>"
 					},
 					{
 						"title": "<RichColor Color=\"1,0,0,1\">Server Rules:</>",
@@ -45,7 +45,7 @@
 				"content": [
 					{
 						"title": "<RichColor Color=\"0.6,0.1,0,1\">Welcome to the Donation info!</>",
-						"text": "\r\nWe run this cluster because we love ARK and enjoy playing it with good people. Playing will always be free — but hosting isn’t, so we hugely appreciate any support!\r\n\r\nDonations help with:\r\n<RichColor Color=\"1,0.5,0,1\">*</> Hardware (RAM, CPU cooling, storage, repairs, future upgrades)\r\n<RichColor Color=\"1,0.5,0,1\">*</> Network & Power (internet bandwidth, static IP, electricity — the server runs 24/7)\r\n<RichColor Color=\"1,0.5,0,1\">*</> Maintenance (keeping the ARKs alive and running smoothly)\r\n\r\nWe're not a big community and cover most of the costs ourselves, so even a small donation makes a real difference.\r\n\r\nNo pressure, but if you enjoy your time here and want to help keep the ARKs alive, we’d be truly grateful.\r\n\r\nIf you have any questions, feel free to message <RichColor Color=\"1,0.5,0,1\">@the.pizza</> on <RichColor Color=\"0,0,0,1\">discord.</>\r\n"
+						"text": "\r\nWe run this cluster because we love ARK and enjoy playing it with good people. Playing will always be free — but hosting isn’t, so we hugely appreciate any support!\r\n\r\nDonations help with:\r\n<RichColor Color=\"1,0.5,0,1\">o</> Hardware (RAM, CPU cooling, storage, repairs, future upgrades)\r\n<RichColor Color=\"1,0.5,0,1\">o</> Network & Power (internet bandwidth, static IP, electricity — the server runs 24/7)\r\n<RichColor Color=\"1,0.5,0,1\">o</> Maintenance (keeping the ARKs alive and running smoothly)\r\n\r\nWe're not a big community and cover most of the costs ourselves, so even a small donation makes a real difference.\r\n\r\nNo pressure, but if you enjoy your time here and want to help keep the ARKs alive, we’d be truly grateful.\r\n\r\nIf you have any questions, feel free to message <RichColor Color=\"1,0.5,0,1\">@the.pizza</> on <RichColor Color=\"0,0,0,1\">discord.</>\r\n"
 					},
 					{
 						"title": "",
