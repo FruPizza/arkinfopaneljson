@@ -16,21 +16,21 @@
 		},
 		"tabs": [
 			{
-				"layout": 4,
+				"layout": 2,
 				"buttontext": "<RichColor Color=\"1,0.5,0,1\">Welcome</>",
-				"imageurl": "https://iili.io/3jbj2ON.png",
+				"imageurl": "https://i.imgur.com/uTbdWvM.png",
 				"content": [
 					{
-						"title": "<RichColor Color=\"1,0.5,0,1\">Welcome to Arktic</>",
+						"title": "<RichColor Color=\"0,0,0,1\">The Green Dragon Inn</>",
 						"text": "<RichColor Color=\"1,1,1,1\">We aim to stay true to the game with just slightly boosted rates, no excessive or game breaking mods, and no player or dino level alterations. We still want to feel the grind and work for the PVE progression.</>\r\n\r\n\r\n<RichColor Color=\"1,1,1,1\">We hope you enjoy your stay here!</> <RichColor Color=\"1,0,0,0.8\"><3</>"
-					},
-					{
-						"title": "<RichColor Color=\"1,0.2,0,1\">Server Rates:</>",
-						"text": "<RichColor Color=\"1,1,1,1\">Max Wild Dino Lvl: 150 / 180Tek</>\r\n<RichColor Color=\"1,1,1,1\">x3 XP (x4 on events)</>\r\n<RichColor Color=\"1,1,1,1\">x3 Taming/Harvesting/Gathering (x4 on Events)</>\r\n<RichColor Color=\"1,1,1,1\">x5 Breeding/Mating (x6 on event)</>\r\n<RichColor Color=\"1,1,1,1\">x5 Larger item stacks</>\r\n<RichColor Color=\"1,1,1,1\">Stacked prime fish meat/prime meat/mutton/honey</>"
 					},
 					{
 						"title": "<RichColor Color=\"0,1,1,1\">Server Rules:</>",
 						"text": "<RichColor Color=\"0,1,1,1\">o</> <RichColor Color=\"1,1,1,1\">Be respectful - No harassment, hate speech, or toxic behavior, and</> ask before <RichColor Color=\"1,1,1,1\">demolishing bases.</>\r\n<RichColor Color=\"0,1,1,1\">o</> <RichColor Color=\"1,1,1,1\">No griefing, base spam, or resource blocking.</>\r\n<RichColor Color=\"0,1,1,1\">o</> <RichColor Color=\"1,1,1,1\">Traps must be unlocked for public use or removed after use.</>\r\n<RichColor Color=\"0,1,1,1\">o</> <RichColor Color=\"1,1,1,1\">Use an appropriate in-game name (no \"Human\", no slurs).</>\r\n<RichColor Color=\"0,1,1,1\">o</> <RichColor Color=\"1,1,1,1\">Please change your Discord nickname to show your in-game name.</>\r\n<RichColor Color=\"0,1,1,1\">o</> <RichColor Color=\"1,1,1,1\">Discord is required — all applications and updates happen here.</>\r\n<RichColor Color=\"0,1,1,1\">o</><RichColor Color=\"1,1,1,1\"> New players must submit an application before joining.</>"
+					},
+					{
+						"title": "",
+						"text": ""
 					},
 					{
 						"title": "",
@@ -41,7 +41,7 @@
 			{
 				"layout": 2,
 				"buttontext": "<RichColor Color=\"0.6,0.1,0,1\">Donation info</>",
-				"imageurl": "https://iili.io/3jbj2ON.png",
+				"imageurl": "https://i.imgur.com/uTbdWvM.png",
 				"content": [
 					{
 						"title": "<RichColor Color=\"0.6,0.1,0,1\">Welcome to the Donation info!</>",
